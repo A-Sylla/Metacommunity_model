@@ -1,0 +1,1 @@
+This repository contains the MATLAB code used for my mathematical model presented in the article "Understanding the transmission of bacterial agents of sapronotic diseases using an ecosystem-based approach: A first spatially realistic metacommunity model", published in PLOS Computational Biology (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012435).
